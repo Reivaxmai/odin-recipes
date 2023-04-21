@@ -2,11 +2,11 @@ body {
     background-color: #0D1B2A;
     color: #E0E1DD;
     font-size: 16px;
+    text-align: center;
 }
 
 #header {
     font-size: 2.4em;
-    text-align: center;
 }
 
 img {
@@ -27,5 +27,4 @@ a:hover {
 
 .content {
     width: 100%;
-    text-align: center;
 }

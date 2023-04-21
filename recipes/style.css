@@ -1,0 +1,48 @@
+body {
+    background-color: #0D1B2A;
+    color: #E0E1DD;
+    font-size: 16px;
+}
+
+a {
+    color: #778DA9;
+    text-align: center;
+}
+
+a:hover {
+    color: #E0E1DD;
+}
+
+h1 {
+    font-size: 2.4em;
+    text-align: center;
+}
+
+img {
+    width: 60vw;
+    max-width: 600px;
+    height: auto;
+    display: flex;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+h3 {
+    font-size: 1.6em;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+ol, ul {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    width: 30vw;
+}
+
+li {
+    width: 100%;
+}
