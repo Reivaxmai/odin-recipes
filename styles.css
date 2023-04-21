@@ -1,3 +1,9 @@
+body {
+    background-color: #0D1B2A;
+    color: #E0E1DD;
+    font-size: 16px;
+}
+
 #header {
     font-size: 2.4em;
     text-align: center;
@@ -9,4 +15,17 @@ img {
     display: flex;
     margin: 0 auto;
     border-radius: 10px;
+}
+
+a {
+    color: #778DA9;
+}
+
+a:hover {
+    color: #E0E1DD;
+}
+
+.content {
+    width: 100%;
+    text-align: center;
 }
